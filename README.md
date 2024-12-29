@@ -14,7 +14,7 @@ The task is to implement functions on different Core JS topics. This module requ
 
 1. Install Node.js
 2. Fork this repository: <https://github.com/rolling-scopes-school/core-js-numbers>
-3. Clone your newly created repo: `https://github.com/<%your_github_username%>/core-js-numbers/`
+3. Clone your newly created repo: `https://github.com/ann360/core-js-numbers/`
 4. Go to folder `core-js-numbers`
 5. To install all dependencies use `npm install`
 6. Each task is usually a regular function:
